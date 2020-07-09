@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>這是分類 on 鯊鯊出沒中</title>
+    <link>https://sroutear.github.io/categories/%E9%80%99%E6%98%AF%E5%88%86%E9%A1%9E/</link>
+    <description>Recent content in 這是分類 on 鯊鯊出沒中</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Thu, 09 Jul 2020 17:30:47 +0800</lastBuildDate>
+    
+	<atom:link href="https://sroutear.github.io/categories/%E9%80%99%E6%98%AF%E5%88%86%E9%A1%9E/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第一篇測試文章</title>
+      <link>https://sroutear.github.io/blog/test/</link>
+      <pubDate>Thu, 09 Jul 2020 17:30:47 +0800</pubDate>
+      
+      <guid>https://sroutear.github.io/blog/test/</guid>
+      <description>鯊的測試文章 小標題 這是內文這是內文這是內文這是內文這是內文
+List  List item List item List item  Unordered List  List item List item List item  </description>
+    </item>
+    
+  </channel>
+</rss>
