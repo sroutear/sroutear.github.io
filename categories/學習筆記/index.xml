@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Photos on 鯊鯊出沒中</title>
-    <link>https://sroutear.github.io/tags/photos/</link>
-    <description>Recent content in Photos on 鯊鯊出沒中</description>
+    <title>學習筆記 on 鯊鯊出沒中</title>
+    <link>https://sroutear.github.io/categories/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/</link>
+    <description>Recent content in 學習筆記 on 鯊鯊出沒中</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Thu, 09 Jul 2020 10:30:47 +0800</lastBuildDate>
     
-	<atom:link href="https://sroutear.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sroutear.github.io/categories/%E5%AD%B8%E7%BF%92%E7%AD%86%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,16 +18,6 @@
       
       <guid>https://sroutear.github.io/blog/test-2/</guid>
       <description>測試文章之二 小標題 這是內文這是內文這是內文這是內文這是內文
-List  List item List item List item  Unordered List  List item List item List item  </description>
-    </item>
-    
-    <item>
-      <title>第一篇測試文章</title>
-      <link>https://sroutear.github.io/blog/test/</link>
-      <pubDate>Wed, 08 Jul 2020 17:30:47 +0800</pubDate>
-      
-      <guid>https://sroutear.github.io/blog/test/</guid>
-      <description>鯊的測試文章 小標題 這是內文這是內文這是內文這是內文這是內文
 List  List item List item List item  Unordered List  List item List item List item  </description>
     </item>
     
